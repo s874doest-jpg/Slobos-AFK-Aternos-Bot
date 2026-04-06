@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thecottagepeople.aternos.me
-",
+    "ip": "thecottagepeople.aternos.me",
     "port": 40339,
     "version": "",
     "try-creative": false
